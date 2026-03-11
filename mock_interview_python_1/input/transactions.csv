@@ -1,0 +1,8 @@
+id,amount,category,type
+1,150.00,food,debit
+2,75.50,travel,debit
+3,500.00,salary,credit
+4,200.00,travel,debit
+5,45.25,food,debit
+6,100.00,entertainment,debit
+7,350.00,bonus,credit
