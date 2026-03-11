@@ -1,6 +1,6 @@
 # Mock Debugging Interview — Python
 
-This is a self-practice mock for the Brex debugging interview round.
+This is a self-practice mock for a debugging interview round.
 
 ## The program
 
