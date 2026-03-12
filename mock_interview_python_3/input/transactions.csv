@@ -1,0 +1,10 @@
+id,employee,amount,currency,category,status
+1,alice,250.00,USD,meals,approved
+2,bob,180.00,EUR,travel,approved
+3,alice,50.00,USD,office,approved
+4,carol,1200.00,USD,equipment,approved
+5,bob,90.00,GBP,meals,approved
+6,carol,30.00,USD,office,approved
+7,alice,800.00,USD,travel,approved
+8,carol,500.00,USD,software,approved
+9,bob,45.00,USD,meals,denied
